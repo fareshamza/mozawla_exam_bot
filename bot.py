@@ -13,7 +13,7 @@ from telegram.ext import ApplicationBuilder, MessageHandler, CommandHandler, fil
 BOT_TOKEN = "8760936418:AAHZ5qzI7uOPRybhwHnsMPVu1psLag45C3E"
 
 # ضع هنا المسار الكامل لملف الإكسيل
-EXCEL_FILE = "مزاولةالمهنه_دور_مايو_2026.xlsx"
+EXCEL_FILE = "data1.xlsx"
 # =============================================
 
 logging.basicConfig(
