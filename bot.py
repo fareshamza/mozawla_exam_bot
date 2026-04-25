@@ -94,7 +94,7 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
         await update.message.reply_text(
             f"✅ تم العثور على بياناتك!\n\n"
             f"👤 الاسم: {name}\n"
-            f"📧 الإيميل المسجل:\n`{masked}`\n\n"
+            f"📧 الإيميل المسجل:\n`{email}`\n\n"
             f"_إذا كان الإيميل غلط، تواصل مع الجهة المختصة_",
             parse_mode="Markdown"
         )
