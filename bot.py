@@ -9,7 +9,7 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, MessageHandler, CommandHandler, filters, ContextTypes
 
 # =============================================
-BOT_TOKEN = "ضع_التوكن_هنا"
+BOT_TOKEN = "8760936418:AAHZ5qzI7uOPRybhwHnsMPVu1psLag45C3E"
 EXCEL_FILE = "data1.xlsx"
 # =============================================
 
